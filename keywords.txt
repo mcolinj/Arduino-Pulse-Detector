@@ -1,0 +1,14 @@
+#  Note:  Use single "tab" between the identifier
+#         and the syntax coloring directive.
+#
+#  Class names
+#
+PulseDetector	KEYWORD1
+#
+#  Methods and functions
+#
+pulse_at	KEYWORD2
+#
+#  Defined literal contants
+#
+MAX_PULSES	LITERAL1
